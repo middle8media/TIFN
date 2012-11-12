@@ -1,0 +1,97 @@
+/*#top-pad {
+	padding-top: 256px;
+}*/
+#fruitcake-page {
+		h2{
+			font-family: 'Ribeye Marrow', cursive;
+			font-size: 40px;
+		}
+			.content-container ul {
+				margin: 0 0 20px 0;
+			}
+				.film-challenge {
+					top: -441px;
+				}
+}
+
+.christmas-lights {
+  position: fixed;
+  background: #2F5B82 url(../img/lights.png) top repeat-x;
+  margin: 0 auto;
+  height: 226px;
+  width: 100%;
+  z-index: 9999;
+}
+
+header {
+  padding: 0;
+  margin: 100px auto 0px auto;
+}
+
+#fruitcake-img {
+	a {
+	border-bottom: 0px dotted #fff;
+		&:hover {
+			color: red;
+		}
+	}
+		img {
+			width: 100%;
+			height: auto;
+			border: 5px #fff solid;
+			border-radius: 5px;
+		}
+			p {
+				font-family: 'Ribeye Marrow', cursive;
+				font-size: 36px;
+				position: relative;
+			}
+}
+
+#fruitcake-banner {
+	height: 442px;
+	margin-bottom: 40px;
+		img {
+			width: 100%;
+			height: auto;
+			border: 5px #fff solid;
+			border-radius: 5px;
+		}
+			p {
+				font-family: 'Ribeye Marrow', cursive;
+				font-size: 36px;
+				position: relative;
+			}
+}
+
+.film-challenge {
+	top: -643px;
+	padding-left: 15px;
+	color: #fff;
+	text-shadow: 1px 1px #E92F23, 2px 2px #E92F23, 3px 3px #E92F23;
+}
+
+.click-here {
+	position: relative;
+	top: -218px;
+	right: -648px;
+	width: 270px;
+	color: #fff;
+	text-decoration: blink;
+	text-shadow: 1px 1px #E92F23, 2px 2px #E92F23, 3px 3px #E92F23;
+	-webkit-transform: rotate(-27deg);
+		-moz-transform: rotate(-27deg);
+			-ms-transform: rotate(-27deg);
+				-o-transform: rotate(-27deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.back-to-fruitcake {
+  border: none;
+  color: $yellow;
+  img {
+  	position: relative;
+  	top: 6px;
+  	padding-right: 6px;
+  }
+}

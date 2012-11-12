@@ -48,19 +48,8 @@
 
 <div class="container_12">
 
-<div id="fruitcake-img">
-	<div class="content-container">
-	<a href="fruitcake" title="Fruit Cake Film Challenge Film Festival Challenge">
-			<img src="img/fruit-cake.jpg" alt="Fruit Cake">
-		<p class="film-challenge">The 2012 Fruit Cake Film Challenge Film Festival</p>
-		<p class="click-here blink">Click to Enter</p>
-		</a>
-	</div>
-</div>
-
 <div id="welcome" class="grid_12">
 	<div class="content-container">
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>Welcome to TIFN</h2>
 		<div class="grid_6 alpha">
 			<p>The Triad Indie Film Network (TIFN) is an organization of anyone and everyone that is interested in creating and/or enjoying locally produced short and feature-length films, whether they be narrative fiction, documentary, animation, or some clever combination thereof. TIFN is based out of the Piedmont Triad area of North Carolina, which encompasses Greensboro, High Point, Winston-Salem and the surrounding communities. We have a brand new home at <a href="http://www.greensboroschoolofcreativity.org/" target="blank" title="The Creative Center">The Creative Center</a>, along with a committee of officers, and a renewed sense to promote the cinematic efforts of Triad filmmakers.</p>
@@ -75,7 +64,6 @@
 <div id="about" class="grid_12">
 	<div class="content-container">
 		<a class="top-please" style="float:right;" href="#welcome" title="Top Please">Top Please</a>
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>About TIFN</h2>
 			<p>Triad Indie Film Network strives to create a supportive community of filmmakers & film-lovers. We have regular screenings each month at the TIFN Headquarters, in our brand new HiDef screening room that comes equipped with a <em>120" screen</em> and <em>5.1 Surround Sound</em> system. We also have a 1000-square-foot studio space and shooting stage, all located mere minutes from downtown Greensboro, and all readily available for TIFN members and supporters. We offer a variety of directing, acting & screenwriting groups, as well other types of networking meetings.</p>
 
@@ -91,7 +79,6 @@
 <div id="membership" class="grid_12">
 	<div class="content-container">
 		<a class="top-please" style="float:right;" href="#welcome" title="Top Please">Top Please</a>
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>Membership</h2>
 			<div class="grid_6 alpha">
 				<p>A TIFN Membership is open to both aspiring and experienced writers, directors, producers, actors, crew, musicians and film lovers of all ages and backgrounds. The membership term is yearly, beginning on January 1st of the calendar year and is pro-rated if joined after January.</p>
@@ -142,7 +129,6 @@
 <div id="events" class="grid_12">
 	<div class="content-container">
 		<a class="top-please" style="float:right;" href="#welcome" title="Top Please">Top Please</a>
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>Events</h2>
 		<div class="grid_12 alpha">
 			<p>Join us on the first Tuesday of every month, in the Film Room (Rm. 213) of <a href="http://www.greensboroschoolofcreativity.org/" target="blank" title="The Creative Center">The Creative Center</a>, for the monthly TIFN meetings. The meetings will consist of official TIFN business, networking and miscellaneous movie matters (short film screenings, speakers, presentations, etc.).</p>
@@ -174,7 +160,6 @@
 <div id="links" class="grid_12">
 	<div class="content-container">
 		<a class="top-please" style="float:right;" href="#welcome" title="Top Please">Top Please</a>
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>Links & Resources</h2>
 		<div class="grid_7 alpha">
 			<h3>Friends of TIFN</h3>
@@ -217,7 +202,6 @@
 <div id="contact" class="grid_12">
 	<div class="content-container">
 		<a class="top-please" style="float:right;" href="#welcome" title="Top Please">Top Please</a>
-		<a class="back-to-fruitcake" style="float:left;" href="fruitcake" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 		<h2>Contact</h2>
 			<div class="grid_6 alpha">
 			<h3>Address</h3>
