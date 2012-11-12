@@ -1,0 +1,2 @@
+//active class
+$("nav li a").click(function(){$("nav li").removeClass("active");$(this).parent().addClass("active")});$("#logo").click(function(){$("nav li").removeClass("active")});$("#navbar").scrollspy.ck();$(document).ready(function(){$(".click-here").toggleClass("flash animated")});

@@ -528,8 +528,8 @@ svg:not(:root) {
 body {
   background-color: #2F5B82;
   color: #fff;
-  font-family: "museo-slab-1","Lucida Grande",Arial,Verdana;
   font-size: 16px;
+  font-family: "museo-slab-1","Lucida Grande",Arial,Verdana;
   line-height: 1.5em; }
 
 a {
@@ -549,8 +549,8 @@ p {
 ol {
   padding-left: 25px; }
   ol li {
-    list-style: decimal;
-    padding-bottom: 10px; }
+    padding-bottom: 10px;
+    list-style: decimal; }
 
 .container_12 {
   position: relative; }
@@ -587,10 +587,10 @@ header {
   background: url(../img/twitter-inverse.png) no-repeat 0 0; }
 
 #navbar {
-  height: 48px;
-  background: url(../img/banner.png) no-repeat 0 40%;
   position: relative;
-  left: -10px; }
+  left: -10px;
+  height: 48px;
+  background: url(../img/banner.png) no-repeat 0 40%; }
 
 h1 {
   height: 50px;
@@ -782,12 +782,11 @@ footer span {
 footer span:last-of-type {
   float: right; }
 
-/*#top-pad {
-	padding-top: 256px;
-}*/
+/* #top-pad {
+	padding-top: 256px; */
 #fruitcake-page h2 {
-  font-family: 'Ribeye Marrow', cursive;
-  font-size: 40px; }
+  font-size: 40px;
+  font-family: 'Ribeye Marrow', cursive; }
 #fruitcake-page .content-container ul {
   margin: 0 0 20px 0; }
 #fruitcake-page .film-challenge {
@@ -795,15 +794,15 @@ footer span:last-of-type {
 
 .christmas-lights {
   position: fixed;
-  background: #2f5b82 url(../img/lights.png) top repeat-x;
+  z-index: 9999;
   margin: 0 auto;
-  height: 226px;
   width: 100%;
-  z-index: 9999; }
+  height: 226px;
+  background: #2f5b82 url(../img/lights.png) top repeat-x; }
 
 header {
-  padding: 0;
-  margin: 100px auto 0px auto; }
+  margin: 100px auto 0px auto;
+  padding: 0; }
 
 #fruitcake-img a {
   border-bottom: 0px dotted #fff; }
@@ -815,22 +814,22 @@ header {
   border: 5px #fff solid;
   border-radius: 5px; }
 #fruitcake-img p {
-  font-family: 'Ribeye Marrow', cursive;
+  position: relative;
   font-size: 36px;
-  position: relative; }
+  font-family: 'Ribeye Marrow', cursive; }
 
 #fruitcake-banner {
-  height: 442px;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  height: 442px; }
   #fruitcake-banner img {
     width: 100%;
     height: auto;
     border: 5px #fff solid;
     border-radius: 5px; }
   #fruitcake-banner p {
-    font-family: 'Ribeye Marrow', cursive;
+    position: relative;
     font-size: 36px;
-    position: relative; }
+    font-family: 'Ribeye Marrow', cursive; }
 
 .film-challenge {
   top: -643px;
@@ -846,11 +845,11 @@ header {
   color: #fff;
   text-decoration: blink;
   text-shadow: 1px 1px #E92F23, 2px 2px #E92F23, 3px 3px #E92F23;
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
   -webkit-transform: rotate(-27deg);
   -moz-transform: rotate(-27deg);
   -ms-transform: rotate(-27deg);
-  -o-transform: rotate(-27deg);
-  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); }
+  -o-transform: rotate(-27deg); }
 
 .back-to-fruitcake {
   border: none;

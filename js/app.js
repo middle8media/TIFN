@@ -13,7 +13,7 @@
 		});
 
 //Scrollspy
-		$('#navbar').scrollspy();
+		$('#navbar').scrollspy.ck();
 
 //blinking "Click to Enter" text
 $(document).ready(function(){
