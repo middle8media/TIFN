@@ -1,4 +1,5 @@
 @import "960";
+/*@import "gumby";*/
 @import "normalize";
 @import "variables";
 
@@ -174,10 +175,11 @@ nav a {
   font-family: "museo-slab-1","Lucida Grande",Arial,Verdana;
 }
 
-.content-container {
+/*.content-container {
+  width: 940px;
   padding-top:250px;
 }
-
+*/
 .btn {
   display: inline-block;
   margin-top: 30px;
@@ -231,38 +233,39 @@ nav a {
 */
 
 #welcome {
-  height:920px;
-  /* background: red; */
+  background: #498731;
+  height: 800px;
 }
 
 #about {
-  /* margin-top:500px; */
-  height:920px;
-  /* background: red; */
+  background: #939039;
+  height: 800px;
 }
 
 #membership {
-  /* margin-top:500px; */
-  height:920px;
-  /* background: red; */
+  background: #916938;
+  height: 800px;
 }
 
 #events {
-  /* margin-top:500px; */
-  height:920px;
-  /* background: red; */
+  background: #342C81;
+  height: 800px;
 }
-
 #links {
-  /* margin-top:500px; */
-  height:920px;
-  /* background: red; */
+  background: #582982;
+  height: 800px;
+}
+/*#contact {
+  background: ;
+}*/
+
+.welcome, .about, .membership, .events, .links {
+  padding-top: 80px;
 }
 
-#contact {
-  /* margin-top:500px; */
-  height:909px;
-  /* background: red; */
+.contact {
+ /* margin-bottom: 75px;*/
+  padding: 130px 0 100px 0;
 }
 
 .top-please {

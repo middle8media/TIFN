@@ -47,7 +47,6 @@
 </header>
 
 <div class="container_12">
-	<div class="content-container">
 		<div class="grid_12">
 			<div id="fruitcake-banner">
 					<img src="/img/fruit-cake-banner.jpg" alt="Fruit Cake">
@@ -69,7 +68,7 @@
 				</ul>
 				<br />
 			</div>
-			<div class="grid_8 omega prefix_1">
+			<div class="grid_7 omega prefix_1">
 			<h3>When & Where</h3>
 				<table>
 				<tr>
@@ -89,7 +88,7 @@
 				<p>How short? you may ask. Well that is your choice of 10 seconds or 30 seconds or 60 seconds. Yes, you can do this in two hours, but it is a creative film challenge!</p>
 				<p>This is a FREE TIFN event, open to the public, and EVERYONE can enter. You can bring your own team, work solo, or come and be part of a team at the event. All you need is a video camera, be it a cell phone or full pro gear, or only a computer with animation software, and most important, the desire to make a short film very quickly. TIFN officers and members will be available to help answer questions and provide how-to tips and tricks throughout the event.</p>
 				<br />
-			<div class="grid_5 alpha">
+			<div class="grid_6 alpha">
 				<h3>Festival Rules</h3>
 				<ol>
 					<li>Films should be 10-second, 30-second, or 60-second in length</li>
@@ -101,7 +100,7 @@
 					<li>ALL entries must be received by 11:59 p.m. on Monday, December 3rd.</li>
 				</ol>
 			</div>
-			<div class="grid_7 omega prefix_1">
+			<div class="grid_5 omega prefix_1">
 				<h3>Submission Guidelines</h3>
 				<ol>
 					<li>Films can be created with any camera and editing program</li>
@@ -140,7 +139,6 @@
 			</footer>
 		</div>
 
-	</div>
 </div>
 
 <script type='text/javascript' src='js/app-ck.js'></script>
