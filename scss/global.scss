@@ -1,0 +1,562 @@
+@import "normalize";
+@import "skeleton";
+@import "variables";
+
+/*
+******************************
+* =@fontface
+******************************
+*/
+
+@font-face {
+ font-weight:normal;font-style:normal;
+
+  font-family:'Aldo';
+  src:  url('../fonts/Aldo_PC.eot?')format("eot"),
+        url('../fonts/Aldo_PC.woff') format("woff"),
+        url('../fonts/Aldo_PC.ttf') format("truetype"),
+        url('../fonts/Aldo_PC.svg#Aldo-SemiBold') format("svg");}
+
+/*
+******************************
+* =General Styles
+******************************
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  font-size: 100%;
+  font-family: "museo-slab-1","Lucida Grande",Arial,Verdana;
+  line-height:1.5rem;
+}
+
+a {
+  border-bottom: 1px dotted #fff;
+  color: #fff;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: $yellow;
+}
+
+p {
+  margin-bottom:20px;
+  line-height:1.5rem;
+}
+
+ol {
+  padding-left: 25px;
+    li {
+    padding-bottom: 10px;
+    list-style: decimal;
+  }
+}
+
+header {
+  position: fixed;
+  z-index:9999;
+  margin: 0 auto;
+  padding: 30px 0 0 0;
+  width: 100%;
+}
+
+h1 {
+  height: 50px;
+  text-align:center;
+  text-shadow: 1px 1px 0px #000, 6px 6px 0px rgba(20,20,20,.4)!important;
+  letter-spacing:.08rem;
+  font-size: 3.8rem;
+  font-family:'Aldo';
+}
+
+h2 {
+  margin-bottom: 20px;
+  padding-bottom:20px;
+  border-bottom: 2px solid white;
+  color: #fff;
+  text-align:center;
+  text-shadow: 1px 1px 0px #000, 4px 4px 0px rgba(20,20,20,.4)!important;
+  letter-spacing:.04rem;
+  font-size:3rem;
+  font-family:'Aldo';
+}
+
+h3 {
+  margin-bottom: 20px;
+  padding: 10px 0 10px 10px;
+  border-bottom: 3px solid #fff;
+  border-left: 3px solid #fff;
+  background: rgb(1, 36, 59);
+  text-shadow: 1px 1px 0px #000, 2px 2px 0px rgba(20,20,20,.4)!important;
+  letter-spacing: .1rem;
+  font-style: italic;
+  font-size:1.6rem;
+  font-family:'Aldo';
+}
+
+.active a {
+  border-bottom:1px solid $yellow;
+  color:$yellow;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: .3rem;
+  padding: 10px 10px;
+  border-color: #bd362f #bd362f #802420;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-bottom-color: #bbb;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background-color: #D5544F;
+  background-image: -moz-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -ms-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));
+  background-image: -webkit-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -o-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: linear-gradient(top, #ee5f5b, #bd362f);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  color: #fff;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration:none;
+  font-size: 1rem;
+  line-height: 18px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ee5f5b', endColorstr='#bd362f', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #bd362f;
+  background-position: 0 -15px;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: background-position 0.1s linear;
+  -moz-transition: background-position 0.1s linear;
+  -ms-transition: background-position 0.1s linear;
+  -o-transition: background-position 0.1s linear;
+  transition: background-position 0.1s linear;
+}
+
+td {
+  padding-right: 20px;
+}
+
+/*
+******************************
+* Header
+******************************
+*/
+
+#header {
+  background: #8A3340;
+  padding: 95px 0 50px 0;
+  border-bottom: 5px solid black;
+}
+
+.logo {
+  float: left;
+  font-size: 2.5em;
+  text-shadow: 1px 1px 0px #000, 4px 4px 0px rgba(20,20,20,.4)!important;
+  margin-left: 15px;
+  a {
+    border-bottom: 0px;
+  }
+}
+
+.tagline {
+  float: right;
+  margin: 5px 15px 0 0;
+}
+
+
+/*.nav {
+  float: right;
+  margin: 5px 0 0 0 ;
+}
+
+.nav ul li {
+  float: left;
+}
+
+.nav ul li a {
+  float: left;
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  letter-spacing: .1rem;
+  margin: 0 0 0 35px;
+  font-family:'Aldo';
+  color: rgb(197, 199, 199);
+  transition: color .25s ease-in-out;
+  -moz-transition: color .25s ease-in-out;
+  -webkit-transition: color .25s ease-in-out;
+}*/
+/*
+******************************
+* =modules
+******************************
+*/
+
+#welcome {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #335e84;
+}
+
+#about {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #4D8935;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+#membership {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #8A3340;
+}
+
+#events {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #335e84;
+}
+#links {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #4D8935;
+}
+#contact {
+  border-bottom: 5px solid black;
+  background: #8A3340;
+}
+
+.welcome, .about, .membership, .events, .links, .contact {
+  padding: 100px 0 50px 0;
+}
+
+/*.contact {
+  margin-bottom: 75px;
+  padding: 100px 0 0 0;
+}*/
+
+.up-please, .down-please, {
+  float: right;
+  margin: 15px 0 0 10px;
+  border: none;
+  color: $yellow;
+  font-size: 1.2rem;
+}
+
+.up-please span {
+  font-size: 1rem;
+ }
+
+ .home-please {
+  float: left;
+  margin: 15px 0 0 0;
+  border: none;
+  color: $yellow;
+  font-size: 1rem;
+ }
+
+/*
+******************************
+* =membership
+******************************
+*/
+
+#word-icon{
+  float: left;
+  width: 64px;
+  height: 64px;
+  margin-right: 20px;
+  background: url(../img/word.png) no-repeat 0 0;
+}
+
+#pdf-icon{
+  float:left;
+  width: 64px;
+  height: 64px;
+  background: url(../img/pdf.png) no-repeat 0 0;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float: right;
+}
+
+/*
+******************************
+* =contact form
+******************************
+*/
+
+input[type="text"], input[type="email"], textarea {
+  margin-bottom: 10px;
+  padding: 7px 2px 7px 3px;
+  width: 98%;
+  border: none;
+  background-color:#446B8E;
+  color: #fff;
+}
+
+textarea {
+  height:196px;
+}
+
+address {
+  padding-bottom:40px;
+}
+
+/*
+******************************
+* =footer
+******************************
+*/
+
+#footer {
+  background-color: #2F5B82;
+  padding: 30px 0;
+
+}
+
+/*
+******************************
+* Bylaws & Application
+******************************
+*/
+
+#bylaws, #application  {
+  background: $blue;
+  padding-top: 50px;
+  height: 1000px;
+}
+
+@import "fruit-cake";
+@import "animations";
+
+
+
+/*
+******************************
+* Media Queries
+******************************
+*/
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.logo {
+  font-size: 2.4rem;
+}
+
+.tagline {
+  font-size: .95rem;
+  margin-top: 2px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1.7rem;
+}
+
+#fruitcake-img {
+  height: 266px;
+}
+
+.film-challenge {
+  top: -338px;
+}
+
+.click-here {
+  right: -529px;
+}
+
+
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+.logo, .tagline {
+  float: none;
+  text-align: center;
+}
+
+.tagline {
+  margin: -10px 0 10px 0;
+}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+body {
+    font-size: 90%;
+  }
+
+#christmas-lights {
+  background-size: 25%;
+}
+
+#header {
+  padding-top: 65px;
+}
+
+.film-challenge {
+  top: -189px;
+}
+
+.click-here {
+top: -117px;
+right: -219px;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.back-to-fruitcake {
+  display: none;
+}
+
+.welcome, .about, .membership, .events, .links, .contact {
+  padding-top: 75px;
+}
+
+#details {
+  padding-top: 75px;
+}
+
+.up-please, .down-please {
+  margin: 0 0 0 10px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1.3rem;
+  letter-spacing: .13rem;
+  text-shadow: 1px 1px rgb(233, 47, 35), 2px 2px rgb(233, 47, 35);
+}
+
+#fruitcake-img {
+  height: 115px;
+  .fruitcake-img {
+  height: 190px;
+}
+}
+
+.logo {
+  font-size: 1.9rem;
+}
+
+.tagline {
+  font-size: .8rem;
+}
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+
+body {
+    font-size: 90%;
+  }
+
+#christmas-lights {
+  background-size: 25%;
+}
+
+#header {
+  padding-top: 55px;
+}
+
+.film-challenge {
+  top: -139px;
+}
+
+.click-here {
+  top: -111px;
+  right: -135px;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.back-to-fruitcake {
+  display: none;
+}
+
+.welcome, .about, .membership, .events, .links, .contact {
+  padding-top: 75px;
+}
+
+#details, #rules, #sponsors {
+  padding-top: 75px;
+}
+
+.up-please, .down-please {
+  margin: 0 0 0 10px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1rem;
+  letter-spacing: .13rem;
+  text-shadow: 1px 1px rgb(233, 47, 35), 2px 2px rgb(233, 47, 35);
+}
+
+#fruitcake-img {
+  height: 52px;
+  .fruitcake-img {
+  height: 190px;
+}
+}
+
+.logo {
+  font-size: 1.9rem;
+}
+
+.tagline {
+  font-size: .8rem;
+}
+
+}
+
+
+
+

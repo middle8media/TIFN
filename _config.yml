@@ -1,0 +1,3 @@
+exclude: [scss, config.rb, README.md]
+site_name: Triad Indie Film Network
+tagline: A Community of Independent Filmmakers
