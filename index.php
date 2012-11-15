@@ -17,11 +17,11 @@ layout: default
 	<div id="fruitcake-img">
 		<div class="container">
 				<div class="fruitcake-img sixteen columns">
-					<a href="fruitcake.php" title="Fruit Cake Film Challenge Film Festival Challenge">
+				<a href="fruitcake.php" title="Fruit Cake Film Challenge Film Festival Challenge">
 							<img src="img/fruit-cake-banner.jpg" alt="Fruit Cake">
 					<p class="film-challenge">The 2012 Fruitcake Film Challenge Film Festival</p>
 					<p class="click-here">Click to Enter</p>
-					</a>
+				</a>
 				</div> <!-- sixteen columns -->
 		</div> <!-- container -->
 	</div> <!-- #fruitcake-img -->

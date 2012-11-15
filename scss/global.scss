@@ -215,6 +215,7 @@ td {
   height: 100%;
   border-bottom: 5px solid black;
   background: #335e84;
+  padding-top: 50px;
 }
 
 #about {
@@ -248,8 +249,14 @@ td {
   background: #8A3340;
 }
 
-.welcome, .about, .membership, .events, .links, .contact {
+.about, .membership, .events, .links, .contact {
   padding: 100px 0 50px 0;
+}
+
+.welcome {
+  padding: 50px 0 50px 0;
+  z-index: 2;
+  position: relative
 }
 
 /*.contact {
