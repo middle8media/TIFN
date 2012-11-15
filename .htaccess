@@ -22,15 +22,15 @@ RewriteRule ^/?(.*)$ http://www.triadindie.org/$1 [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^(www.)?triadindie.org$
 
-RewriteCond %{REQUEST_URI} !^/tifn/_site/
+RewriteCond %{REQUEST_URI} !^/_site/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule ^(.*)$ /tifn/_site/$1
+RewriteRule ^(.*)$ /_site/$1
 
 RewriteCond %{HTTP_HOST} ^(www.)?triadindie.org$
-RewriteRule ^(/)?$ tifn/_site/index.php [L]
+RewriteRule ^(/)?$ /_site/index.php [L]
 
 
 # ----------------------------------------------------------------------
