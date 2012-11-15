@@ -2,18 +2,17 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
 
-	<title>TIFN - Triad Indie Film Network</title>
+	<title>TIFN -Triad Indie Film Network</title>
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="css/global.css">
+	<link rel="stylesheet" href="/css/global_v1.1.css">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="/js/scrollspy.js"></script>
 
 <!-- fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Ribeye+Marrow' rel='stylesheet' type='text/css'>
@@ -32,15 +31,14 @@
 	</script>
 
 <!-- modernizr -->
-	<script src="js/modernizr.js" type="text/javascript"></script>
+	<script src="js/modernizr-ck.js" type="text/javascript"></script>
 </head>
 
-
-<body>
+	<body>
 <div id="bylaws">
 	<div class="container">
 		<div class="sixteen columns">
-		<a class="home-please" href="/" title="Take Me Back">Take Me Back</a>
+		<a class="home-please" href="/" title="Take Me Back" data-icon="&#xe000;"></a>
 				<h2>From the Bylaws:</h2>
 			<div class="row">
 				<div style="padding-bottom: 30px;"class="eight columns alpha">
@@ -89,18 +87,19 @@
 	</div> <!-- container -->
 </div> <!-- #bylaws -->
 
-<div id="footer">
-	<div class="container">
-		<div class="footer sixteen columns">
-			<footer>
-				<span>© 2012 TIFN</span><br />
-				<span>✪ Website by <a href="http://middle8media.com" target="_blank" title="M8M Web Design">Middle8Media</a></span>
-			</footer>
-		</div> <!-- sixteen columns -->
-	</div> <!-- container -->
-</div> <!-- #footer -->
 
-<script type='text/javascript' src='js/app-ck.js'></script>
+	<div id="footer">
+		<div class="container">
+			<div class="footer sixteen columns">
+				<footer>
+					<span>© 2012 TIFN</span><br />
+					<span>✪ Website by <a href="http://middle8media.com" target="_blank" title="M8M Web Design">Middle8Media</a></span>
+				</footer>
+			</div> <!-- sixteen columns -->
+		</div> <!-- container -->
+	</div> <!-- #footer -->
+
+<script type='text/javascript' src='/js/app-ck.js'></script>
 
 </body>
 </html>

@@ -696,3 +696,37 @@ Triad Indie Film Network
 
 Date: 2012-03-30
 Time: 12:37:59<br>--------------------------------------------------------------------------------
+2012-11-15 11:26:27	::1	FormMail
+[Email sent]--------------------------------------------------------------------------------To: vice-president@triadindie.org
+Subject: TIFN Online Application
+Email sent
+From: "Seth Hall - Testing form" <seth@middle8media.com>CC: treasurer@triadindie.orgBCC: webmaster@triadindie.orgMIME-Version: 1.0Content-type: text/plain; charset=UTF-8You have received an application form from  Seth Hall - Testing form.
+
+Here is the form data:
+
+Contact Name 	 : Seth Hall - Testing formGroup or Business Name 	 : Middle8MediaCurrent Street Address 	 : 333 Three LaneCity, State, Zip Code 	 : Lizard Lick, NC 11111Phone Number 	 : 333-333-3333Email Address 	 : seth@middle8media.com
+
+Cheers,
+TIFN Web Administrator
+
+IP: ::1
+Date: 2012-11-15
+Time: 11:26:25
+Reference ID: 20121115-9022<br>--------------------------------------------------------------------------------
+2012-11-15 11:26:27	::1	AutoResponseEmail
+[Email sent]--------------------------------------------------------------------------------To: seth@middle8media.com
+Subject: Thank You for Applying to Join TIFN
+Email sent
+From:  <vice-president@triadindie.org>MIME-Version: 1.0Content-type: text/plain; charset=UTF-8Dear  Seth Hall - Testing form,
+
+Thank you for applying for membership to the Triad Indie Film Network. Here is the copy of your order:
+
+Contact Name 	 : Seth Hall - Testing formGroup or Business Name 	 : Middle8MediaCurrent Street Address 	 : 333 Three LaneCity, State, Zip Code 	 : Lizard Lick, NC 11111Phone Number 	 : 333-333-3333Email Address 	 : seth@middle8media.com
+
+We will contact you shortly.
+
+Regards,
+Triad Indie Film Network
+
+Date: 2012-11-15
+Time: 11:26:25<br>--------------------------------------------------------------------------------
