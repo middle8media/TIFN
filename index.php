@@ -17,7 +17,7 @@ layout: default
 	<div id="fruitcake-img">
 		<div class="container">
 				<div class="fruitcake-img sixteen columns">
-				<a href="fruitcake.php" title="Fruit Cake Film Challenge Film Festival Challenge">
+				<a href="/fruitcake.php" title="Fruit Cake Film Challenge Film Festival Challenge">
 							<img src="img/fruit-cake-banner.jpg" alt="Fruit Cake">
 					<p class="film-challenge">The 2012 Fruitcake Film Challenge Film Festival</p>
 					<p class="click-here">Click to Enter</p>
@@ -30,7 +30,7 @@ layout: default
 		<div class="container">
 				<div class="welcome sixteen columns">
 						<a class="down-please" href="#about" title="Down Please">&dArr;</a>
-						<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
+						<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 						<h2>Welcome to TIFN</h2>
 						<div class="row">
 							<div class="eight columns alpha">
@@ -50,7 +50,7 @@ layout: default
 			<div class="about sixteen columns">
 					<a class="down-please" href="#membership" title="Down Please">&dArr;</a>
 					<a class="up-please" href="#welcome" title="Up Please">&uArr;</a>
-					<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
+					<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 					<h2>About TIFN</h2>
 						<p>Triad Indie Film Network strives to create a supportive community of filmmakers & film-lovers. We have regular screenings each month at the TIFN Headquarters, in our brand new HiDef screening room that comes equipped with a <em>120" screen</em> and <em>5.1 Surround Sound</em> system. We also have a 1000-square-foot studio space and shooting stage, all located mere minutes from downtown Greensboro, and all readily available for TIFN members and supporters. We offer a variety of directing, acting & screenwriting groups, as well other types of networking meetings.</p>
 				<div class="row">
@@ -70,7 +70,7 @@ layout: default
 			<div class="membership sixteen columns">
 				<a class="down-please" href="#events" title="Down Please">&dArr;</a>
 				<a class="up-please" href="#about" title="Up Please">&uArr;</a>
-				<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
+				<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 			<h2>Membership</h2>
 				<div class="row">
 					<div class="eight columns alpha">
@@ -119,7 +119,7 @@ layout: default
 			<div class="events sixteen columns">
 				<a class="down-please" href="#links" title="Down Please">&dArr;</a>
 				<a class="up-please" href="#membership" title="Up Please">&uArr;</a>
-				<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
+				<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 				<h2>Events</h2>
 				<div class="sixteen columns">
 					<p>Join us on the first Tuesday of every month, in the Film Room (Rm. 213) of <a href="http://www.greensboroschoolofcreativity.org/" target="blank" title="The Creative Center">The Creative Center</a>, for the monthly TIFN meetings. The meetings will consist of official TIFN business, networking and miscellaneous movie matters (short film screenings, speakers, presentations, etc.).</p>
@@ -156,7 +156,7 @@ layout: default
 			<div class="links sixteen columns">
 					<a class="down-please" href="#contact" title="Down Please">&dArr;</a>
 					<a class="up-please" href="#events" title="Up Please">&uArr;</a>
-					<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
+					<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival">Back to the Fruitcake</a>
 					<h2>Links & Resources</h2>
 				<div class="row">
 					<div class="nine columns alpha">
@@ -201,7 +201,7 @@ layout: default
 		<div class="container">
 			<div class="contact sixteen columns">
 					<a class="up-please" href="#header" title="Top Please"><span>Top Please</span> &uArr;</a>
-					<a class="back-to-fruitcake" href="fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival"><span>Back to the Fruitcake</span></a>
+					<a class="back-to-fruitcake" href="/fruitcake.php" title="Back to Fruitcake"><img src="img/fruitcake-icon.png" alt="Fruitcake Film Challenge Film Festival"><span>Back to the Fruitcake</span></a>
 					<h2>Contact</h2>
 				<div class="row">
 					<div class="eight columns alpha">
