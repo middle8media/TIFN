@@ -39,21 +39,53 @@ layout: default
 						<table>
 						<tr>
 							<td><strong>When:</strong></td>
-							<td>Saturday, December, 1st @ 1pm</td>
+							<td>Wednesday, December 12th @ 7pm</td>
 						</tr>
 						<tr>
 							<td><strong>Where:</strong></td>
-							<td>The Creative Center - <a href="http://g.co/maps/kkcx5" target="blank" title="View Map">View Map</a><br></td>
+							<td>The Carousel Theater - <a href="http://goo.gl/maps/Q70rY" target="blank" title="View Map">View Map</a><br></td>
 						</tr>
 					</table>
 					</div>
 				</div> <!-- row -->
-				<div class="sixteen columns alpha blue-box">
-					<p>Join us on <a>Saturday, December 1st at 1:00 p.m. at the Creative Center</a> for a FREE workshop, as we make holiday themed movies in just 2 hours! This festival offers a wonderful opportunity for first time film makers and the most seasoned veterans to network, learn, and share in the film creation process. Participants will have 2 hours to conceive, shoot and finish a holiday-themed short film.</p>
-					<p>How short? you may ask. Well that is your choice of 10 seconds or 30 seconds or 60 seconds. Yes, you can do this in two hours, but it is a creative film challenge!</p>
-					<p>This is a FREE TIFN event, open to the public, and EVERYONE can enter. You can bring your own team, work solo, or come and be part of a team at the event. All you need is a video camera, be it a cell phone or full pro gear, or only a computer with animation software, and most important, the desire to make a short film very quickly. TIFN officers and members will be available to help answer questions and provide how-to tips and tricks throughout the event.</p>
-					<br />
-				</div> <!-- sixteen columns -->
+				<div class="blue-box">
+					<p>Join us on <a>Saturday, December 1st at 1:00 p.m. at the Creative Center</a> in making short holiday-themed movies for this always-fun festival!</p>
+					<p>How short? you may ask. Well that is your choice of 10 seconds or 30 seconds or 60 seconds.</p>
+					<p>This TIFN event is FREE to enter, open to the public, and perfect for EVERYONE to do.</p>
+				</div>
+					<div class="row">
+						<div class="eight columns alpha">
+							<h3>Step 1</h3>
+							<p>Be sure to let us know if you intend to come on December 1 or not so we can plan accordingly.</p>
+							<p>Register via this awesome red button.</p>
+							<a class= "btn btn-inline" href="mailto:president@triadindie.org?subject=I want to register for the FCFCFF" "registrater by email">Register</a>
+							<p></p>
+						</div>
+						<div class="eight columns omega offset-by-one">
+							<h3>Step 2</h3>
+							<p>Make a film (or make many films)!!</p>
+						</div>
+					</div>
+					<div class="blue-box">
+						<p>You have 2 choices for making films:</p>
+						<ol>
+							<li>Just make them on your own. All you need is a phone, or camera, or iPad, or computer and an idea.</li>
+							<li>We will be holding a FRUITCAKE FILM MAKING SESSION on Saturday December 1st at the Creative Center. You will have 2 hours to make a film (or get started on one) with the expert guidance of the TIFN officers and members.</li>
+							<li>*** Of course, the best bet is to do both. Make some on your own, then come on December 1st and try to make one in 2 hours.</li>
+						</ol>
+					</div>
+				<div class="row">
+					<div class="eight columns alpha">
+						<h3>Step 3</h3>
+							<p>Submit films!!!</p>
+							<p>See submission guidelines <a href="#rules" title="Rules">BELOW &dArr; </a>for details.</p>
+							<p>*** All films must be turned in my 11:59pm Monday December 3.</p>
+					</div>
+					<div class="eight columns omega offset-by-one">
+						<h3>Bonus!!!</h3>
+							<p>Oh - did we mention there are FABULOUS PRIZES from local businesses like The Idiot Box, The Porterhouse Bar and Grill, Spring Garden Bakery, Donut World and more?</p>
+					</div>
+				</div>
 		</div> <!-- sixteen columns -->
 	</div> <!-- container -->
 </div> <!-- #details -->

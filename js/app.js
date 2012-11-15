@@ -1,7 +1,7 @@
-//blinking "Click to Enter" text
-$(document).ready(function() {
-	$('.click-here').addClass('flash animated');
-});
+// //blinking "Click to Enter" text
+// $(document).ready(function() {
+// 	$('.click-here').addClass('flash animated');
+// });
 
 /**
  * jQuery.ScrollTo - Easy element scrolling using jQuery.
