@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="/css/global_v1.1.css">
+	<link rel="stylesheet" href="/css/global_v1.2.css">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -132,7 +132,7 @@
 					<div class="eight columns omega offset-by-one">
 						<h3>Application</h3>
 						<p><em>Please submit your application on line.</em></p>
-							<a class="btn" href="/application/online-app.php" title="Submit Application Online" style="margin:0px 0px 30px 0px;"> Submit Online» </a>
+							<a class="btn" href="application/online-app.php" title="Submit Application Online" style="margin:0px 0px 30px 0px;"> Submit Online» </a>
 							<p><em>You may also download and print via the icons below.</em></p>
 
 								<a href="application/tifn-membership-application.doc" title="TIFN Membership Application Doc">
@@ -284,7 +284,7 @@
 							</table>
 					</div>
 
-					<div class="eight columns omega offset-by-one">
+					<div class="eight columns omega offset-by-one map">
 					<h3>Map</h3>
 			    		<iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=900+Sixteenth+Street+Greensboro,+NC+27405&amp;client=safari&amp;oe=UTF-8&amp;hnear=900+16th+St,+Greensboro,+North+Carolina+27405&amp;gl=us&amp;t=h&amp;ie=UTF8&amp;hq=&amp;ll=36.11569,-79.777822&amp;spn=0.024268,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
 					</div>
