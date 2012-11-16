@@ -49,6 +49,14 @@ layout: default
 					</div>
 				</div> <!-- row -->
 				<div class="blue-box">
+					<p>You have 2 choices for making films:</p>
+						<ol>
+							<li>Just make them on your own. All you need is a phone, or camera, or iPad, or computer and an idea.</li>
+							<li>We will be holding a FRUITCAKE FILM MAKING SESSION on Saturday December 1st at the Creative Center. You will have 2 hours to make a film (or get started on one) with the expert guidance of the TIFN officers and members.</li>
+							<li>*** Of course, the best bet is to do both. Make some on your own, then come on December 1st and try to make one in 2 hours.</li>
+						</ol>
+				</div>
+					<div class="blue-box">
 					<p>Join us on <a>Saturday, December 1st at 1:00 p.m. at the Creative Center</a> in making short holiday-themed movies for this always-fun festival!</p>
 					<p>How short? you may ask. Well that is your choice of 10 seconds or 30 seconds or 60 seconds.</p>
 					<p>This TIFN event is FREE to enter, open to the public, and perfect for EVERYONE to do.</p>
@@ -64,15 +72,15 @@ layout: default
 						<div class="eight columns omega offset-by-one">
 							<h3>Step 2</h3>
 							<p>Make a film (or make many films)!!</p>
+							<p>*** Your film must include one or more of these categories.</p>
+							<ol>
+								<li>Fruitcake</li>
+								<li>White Beard</li>
+								<li>Holiday Ornament</li>
+								<li>Milk and Cookies</li>
+								<li>Mistletoe</li>
+							</ol>
 						</div>
-					</div>
-					<div class="blue-box">
-						<p>You have 2 choices for making films:</p>
-						<ol>
-							<li>Just make them on your own. All you need is a phone, or camera, or iPad, or computer and an idea.</li>
-							<li>We will be holding a FRUITCAKE FILM MAKING SESSION on Saturday December 1st at the Creative Center. You will have 2 hours to make a film (or get started on one) with the expert guidance of the TIFN officers and members.</li>
-							<li>*** Of course, the best bet is to do both. Make some on your own, then come on December 1st and try to make one in 2 hours.</li>
-						</ol>
 					</div>
 				<div class="row">
 					<div class="eight columns alpha">
@@ -139,6 +147,7 @@ layout: default
 						<li><a href="http://triadindie.org" target="_blank" >TIFN</a></li>
 						<li><a href="http://www.thecreativecenter.net/" target="_blank" >The Creative Center</a></li>
 						<li><a href="http://www.carouselbattleground.com/" target="_blank" >The Carousel Theater</a></li>
+						<li><a href="http://wuag.net/" target="_blank" >WUAG</a></li>
 						<li><a href="http://www.sv2studios.com/" target="_blank" >SV2 Studios</a></li>
 						<li><a href="http://middle8media.com/" target="_blank" >Middle8Media</a></li>
 						<li><a href="http://idiotboxers.com/" target="_blank" >The Idiot Box</a></li>
