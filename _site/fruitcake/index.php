@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<!-- <link rel="stylesheet" href="global.css?1353429596"> -->
+	<!-- <link rel="stylesheet" href="global.css?1353431009"> -->
 	<link rel="stylesheet" href="/css/global_v1.6.css">
 
 <!-- scripts -->
@@ -81,6 +81,9 @@
 					</table>
 					</div>
 				</div> <!-- row -->
+					<div class="trailer">
+						<iframe src="http://player.vimeo.com/video/53755797?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					</div>
 				<div class="blue-box">
 					<p>You have 2 choices for making films:</p>
 						<ol>
@@ -226,6 +229,12 @@
 	</div> <!-- #footer -->
 
 <script type='text/javascript' src='/js/app-ck.js'></script>
+
+<script>
+  $(document).ready(function(){
+    $(".trailer").fitVids();
+  });
+</script>
 
 </body>
 </html>

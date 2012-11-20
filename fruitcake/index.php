@@ -48,6 +48,9 @@ layout: default
 					</table>
 					</div>
 				</div> <!-- row -->
+					<div class="trailer">
+						<iframe src="http://player.vimeo.com/video/53755797?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					</div>
 				<div class="blue-box">
 					<p>You have 2 choices for making films:</p>
 						<ol>

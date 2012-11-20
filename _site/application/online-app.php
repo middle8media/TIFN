@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<!-- <link rel="stylesheet" href="global.css?1353429596"> -->
+	<!-- <link rel="stylesheet" href="global.css?1353431009"> -->
 	<link rel="stylesheet" href="/css/global_v1.6.css">
 
 <!-- scripts -->
@@ -59,6 +59,12 @@
 	</div> <!-- #footer -->
 
 <script type='text/javascript' src='/js/app-ck.js'></script>
+
+<script>
+  $(document).ready(function(){
+    $(".trailer").fitVids();
+  });
+</script>
 
 </body>
 </html>
