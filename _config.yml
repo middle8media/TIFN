@@ -2,3 +2,4 @@ exclude: [scss, config.rb, README.md, app.js, modernizr.js]
 site_name: Triad Indie Film Network
 tagline: A Community of Independent Filmmakers
 auto: true
+css: global.css
