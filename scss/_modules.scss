@@ -1,0 +1,78 @@
+/*
+******************************
+* =Modules
+******************************
+*/
+
+#welcome {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #335e84;
+  padding-top: 50px;
+}
+
+#about {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #4D8935;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+#membership {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #8A3340;
+}
+
+#events {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #335e84;
+}
+#links {
+  height: 100%;
+  border-bottom: 5px solid black;
+  background: #4D8935;
+}
+#contact {
+  border-bottom: 5px solid black;
+  background: #8A3340;
+}
+
+.about, .membership, .events, .links, .contact {
+  padding: 100px 0 50px 0;
+}
+
+.welcome {
+  padding: 50px 0 50px 0;
+  z-index: 2;
+  position: relative
+}
+
+/*.contact {
+  margin-bottom: 75px;
+  padding: 100px 0 0 0;
+}*/
+
+.up-please, .down-please, {
+  float: right;
+  margin: 15px 0 0 10px;
+  border: none;
+  color: $yellow;
+  font-size: 1.2rem;
+}
+
+.up-please span {
+  font-size: 1rem;
+ }
+
+ .home-please {
+  float: right;
+  margin: 10px 0 0 0;
+  border: none;
+  color: $yellow;
+  font-size: 1.5rem;
+ }

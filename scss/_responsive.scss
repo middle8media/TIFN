@@ -1,0 +1,208 @@
+/*
+******************************
+* Media Queries
+******************************
+*/
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.logo {
+  font-size: 2.4rem;
+}
+
+.tagline {
+  font-size: .95rem;
+  margin-top: 2px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1.7rem;
+}
+
+#fruitcake-img {
+  height: 266px;
+}
+
+.film-challenge {
+  top: -338px;
+}
+
+.click-here {
+  right: -526px;
+  width: 232px;
+}
+
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+.logo, .tagline {
+  float: none;
+  text-align: center;
+}
+
+.tagline {
+  margin: -10px 0 10px 0;
+}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+body {
+    font-size: 90%;
+  }
+
+#christmas-lights {
+  background-size: 25%;
+}
+
+#header {
+  padding-top: 65px;
+}
+
+.film-challenge {
+  top: -189px;
+}
+
+.click-here {
+  width: 225px;
+  top: -117px;
+  right: -219px;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.back-to-fruitcake {
+  display: none;
+}
+
+.welcome, .about, .membership, .events, .links, .contact {
+  padding-top: 75px;
+}
+
+#details {
+  padding-top: 75px;
+}
+
+.up-please, .down-please {
+  margin: 0 0 0 10px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1.3rem;
+  letter-spacing: .13rem;
+  text-shadow: 1px 1px rgb(233, 47, 35), 2px 2px rgb(233, 47, 35);
+}
+
+#fruitcake-img {
+  height: 115px;
+  .fruitcake-img {
+  height: 190px;
+}
+}
+
+.logo {
+  font-size: 1.9rem;
+}
+
+.tagline {
+  font-size: .8rem;
+}
+
+.map {
+  display: none !important;
+}
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+
+body {
+    font-size: 90%;
+  }
+
+#christmas-lights {
+  background-size: 25%;
+}
+
+#header {
+  padding-top: 55px;
+}
+
+.film-challenge {
+  top: -139px;
+}
+
+.click-here {
+  width: 185px;
+  top: -111px;
+  right: -126px;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: left;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.back-to-fruitcake {
+  display: none;
+}
+
+.welcome, .about, .membership, .events, .links, .contact {
+  padding-top: 55px;
+}
+
+#details, #rules, #sponsors {
+  padding-top: 55px;
+}
+
+.up-please, .down-please {
+  margin: 0 0 0 10px;
+}
+
+#fruitcake-img .fruitcake-img p {
+  font-size: 1rem;
+  letter-spacing: .13rem;
+  text-shadow: 1px 1px rgb(233, 47, 35), 2px 2px rgb(233, 47, 35);
+}
+
+#fruitcake-img {
+  height: 52px;
+  .fruitcake-img {
+  height: 190px;
+}
+}
+
+.logo {
+  font-size: 1.7rem;
+}
+
+.tagline {
+  font-size: .8rem;
+}
+
+.map {
+  display: none !important;
+}
+
+}
