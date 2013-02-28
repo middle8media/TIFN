@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="/css/global.css?1356118504">
+	<link rel="stylesheet" href="/css/global.css?1362069952">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -92,7 +92,7 @@
 		<div class="container">
 			<div class="footer sixteen columns">
 				<footer>
-					<span>© 2012 TIFN</span><br />
+					<span>© 2012 - <?php echo date('Y'); ?></span><br />
 					<span>✪ Website by <a href="http://middle8media.com" target="_blank" title="M8M Web Design">Middle8Media</a></span>
 				</footer>
 			</div> <!-- sixteen columns -->
