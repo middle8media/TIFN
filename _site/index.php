@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="/css/global.css?1362069952">
+	<link rel="stylesheet" href="/css/global.css?1362675994">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -130,8 +130,17 @@
 					</div>
 					<div class="eight columns omega offset-by-one">
 						<h3>Application</h3>
-						<p><em>Please submit your application on line.</em></p>
-							<a class="btn" href="application/online-app.php" title="Submit Application Online" style="margin:0px 0px 30px 0px;"> Submit Online» </a>
+						<p><em>New applicants, please submit your application on line.</em></p>
+							<a class="btn" href="application/online-app.php" title="Submit Application Online" style="margin:0px 0px 30px 0px;"> Submit Online » </a>
+						<p><em>or renew your membership.</em></p>
+
+						<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="C4XUZC2G9KVA2">
+						<!-- <a class="btn" title="Renew Membership" style="margin:0px 0px 30px 0px;"> Renew Membership » </a> -->
+						<input class="btn paypal-btn" type="submit" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" value="Renew Membership » ">
+						</form>
+
 							<p><em>You may also download and print via the icons below.</em></p>
 
 								<a href="application/tifn-membership-application.doc" title="TIFN Membership Application Doc">
