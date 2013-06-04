@@ -139,7 +139,7 @@ layout: default
 						<table>
 							<tr>
 								<td><strong>When:</strong></td>
-								<td>Tuesday, March, 5th @ 7pm - ???</td>
+								<td>Tuesday, June, rth @ 7pm - ???</td>
 							</tr>
 							<tr>
 								<td><strong>Where:</strong></td>
@@ -150,8 +150,8 @@ layout: default
 						<p>No special events are scheduled at this time, except for being awesome, which we make sure to scheduled everyday.</p>
 					</div>
 					<div class="eight columns omega offset-by-one">
-						<h3>This Months Meeting</h3>
-						<p>Stephen Hyers from Greene Pictures will be sharing their work and their vision for filmmaking in Greensboro.</p>
+						<h3>This Month's Meeting</h3>
+						<p>Evan Pease talks about the wonderful world of crowd funding.</p>
 					</div>
 				</div> <!-- row -->
 			</div> <!-- sixteen columns -->
