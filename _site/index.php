@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="/css/global.css?1362675994">
+	<link rel="stylesheet" href="/css/global.css?1372692802">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -172,7 +172,7 @@
 						<table>
 							<tr>
 								<td><strong>When:</strong></td>
-								<td>Tuesday, March, 5th @ 7pm - ???</td>
+								<td>Tuesday, July, 2nd @ 7pm - ???</td>
 							</tr>
 							<tr>
 								<td><strong>Where:</strong></td>
@@ -183,8 +183,8 @@
 						<p>No special events are scheduled at this time, except for being awesome, which we make sure to scheduled everyday.</p>
 					</div>
 					<div class="eight columns omega offset-by-one">
-						<h3>This Months Meeting</h3>
-						<p>Stephen Hyers from Greene Pictures will be sharing their work and their vision for filmmaking in Greensboro.</p>
+						<h3>This Month's Meeting</h3>
+						<p>What is the future of filmmaking in NC? In Greensboro? For you? Join us for a roundtable discussion about the future of TIFN and filmmaking in NC. With a special presentation by Les Butchart on a new NC law that will make it MUCH easier to raise money in NC for your next movie! Don't miss this special sneak peek at the future.</p>
 					</div>
 				</div> <!-- row -->
 			</div> <!-- sixteen columns -->

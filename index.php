@@ -139,7 +139,7 @@ layout: default
 						<table>
 							<tr>
 								<td><strong>When:</strong></td>
-								<td>Tuesday, June, rth @ 7pm - ???</td>
+								<td>Tuesday, July, 2nd @ 7pm - ???</td>
 							</tr>
 							<tr>
 								<td><strong>Where:</strong></td>
@@ -151,7 +151,7 @@ layout: default
 					</div>
 					<div class="eight columns omega offset-by-one">
 						<h3>This Month's Meeting</h3>
-						<p>Evan Pease talks about the wonderful world of crowd funding.</p>
+						<p>What is the future of filmmaking in NC? In Greensboro? For you? Join us for a roundtable discussion about the future of TIFN and filmmaking in NC. With a special presentation by Les Butchart on a new NC law that will make it MUCH easier to raise money in NC for your next movie! Don't miss this special sneak peek at the future.</p>
 					</div>
 				</div> <!-- row -->
 			</div> <!-- sixteen columns -->
