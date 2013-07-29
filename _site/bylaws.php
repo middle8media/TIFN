@@ -9,7 +9,7 @@
 	<meta name="description" content="A Non-Profit Community of Independent Filmmakers in The Triad of NC" />
 
 <!-- stylesheets -->
-	<link rel="stylesheet" href="/css/global.css?1372696030">
+	<link rel="stylesheet" href="/css/global.css?1375106505">
 
 <!-- scripts -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

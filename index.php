@@ -139,7 +139,7 @@ layout: default
 						<table>
 							<tr>
 								<td><strong>When:</strong></td>
-								<td>Tuesday, July, 2nd @ 7pm - ???</td>
+								<td>Tuesday, August, 6th @ 7pm - 9pm</td>
 							</tr>
 							<tr>
 								<td><strong>Where:</strong></td>
@@ -151,7 +151,7 @@ layout: default
 					</div>
 					<div class="eight columns omega offset-by-one">
 						<h3>This Month's Meeting</h3>
-						<p>What is the future of filmmaking in NC? In Greensboro? For you? Join us for a roundtable discussion about the future of TIFN and filmmaking in NC. With a special presentation by Les Butchart on a new NC law that will make it MUCH easier to raise money in NC for your next movie! Don't miss this special sneak peek at the future.</p>
+						<p>Join the TIFN gang for some magic! The magic of shot selection, with emphasis on CAMERA ANGLES. That's right, we'll be talking about the most fundamental film-crafting decision of all ... where to place the camera. (In September, we'll look at CAMERA MOVEMENT, btw.) AND, we'll be treated to a short MAGIC SHOW by our very own Tristan Buckley! (We'll be in the back room at Geeksboro.)</p>
 					</div>
 				</div> <!-- row -->
 			</div> <!-- sixteen columns -->
